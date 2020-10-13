@@ -14,13 +14,13 @@ Frontend web criado em ReactJs, criado para o agendamento a visita dos orfanatos
 
 #
 
-<img src="./capture-screen/home.png"/>
+<img src="./web/capture-screen/home.png"/>
 
 #
 
 #### Orphanage Map
 
-<img src="./capture-screen/orphanage-map.png"/>
+<img src="./web/capture-screen/orphanage-map.png"/>
 
 #
 
